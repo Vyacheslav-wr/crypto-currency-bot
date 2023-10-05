@@ -19,5 +19,10 @@ on crypto currency market.
 2. You should create database on your system named crypto
 3. TO run project just run ```java -jar ./build/libs/cryptobot-0.0.1-SNAPSHOT.jar```
 
+# Bot usage
+1. Open bot https://t.me/crypto1_test1_bot
+2. /start - to start getting messages from bot
+3. /stop - stop getting messages from bot
+
 # For the future updates
 It will be a good idea to save program state (for example subscribed users) 
